@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+** Life just got better **
 Use the left arrow to go back!
+
+Kitet:
+ > Life just got better
