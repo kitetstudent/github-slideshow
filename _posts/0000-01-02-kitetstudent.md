@@ -6,4 +6,5 @@ title: "Welcome to our second slide!"
 Use the left arrow to go back!
 
 Kitet:
- > Life just got better
+ > Learn slowly, become a master. 
+ > Learn faster, become a rookie.
